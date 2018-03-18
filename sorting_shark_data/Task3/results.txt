@@ -1,0 +1,31 @@
+==============================================
+   CSD2221 Individual Assignment - M. Joya
+==============================================
+
+
+                .';
+            .-'` .'
+          ,`.-'-.`\
+         ; /     '-'
+         | \       ,-,
+         \  '-.__   )_`'._
+          '.     ```      ``'--._
+         .-' ,      Task 3       `'-.
+          '-'`-._           ((   o   )
+                 `'--....(`- ,__..--'
+                          '-'`
+
+
+----------------------------------------------
+
+Enter search string for Latin names: > 
+tum
+
+You entered string "tum"
+
+The following matches have been found:-
+
+Nurse Shark - Latin name: ginglymostoma cirraTUM
+
+Variegated Shark - Latin name: stegostoma fasciaTUM
+
